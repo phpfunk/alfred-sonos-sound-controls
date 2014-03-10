@@ -1,6 +1,6 @@
 ## Sonos Sound Controls
 
-The desktop app for OS X is great it almost works with all the media keys, almost. You cannot control you volume. With a speaker my office I find it be a time suck to have to tab thru the apps, find Sonos and then manually drag the sound slider. So instead enter [Alfred]((http://alfredapp.com/).
+The desktop app for OS X is great it almost works with all the media keys, almost. You cannot control you volume. With a speaker my office I find it be a time suck to have to tab thru the apps, find Sonos and then manually drag the sound slider. So instead enter [Alfred](http://alfredapp.com/).
 
 I was able to map hotkeys (Command+0, Command+- and Command+=) for mute, volume down and volume up. While not perfect it does the job.
 
