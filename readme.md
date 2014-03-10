@@ -36,3 +36,6 @@ end tell
     end tell
 end tell
 ```
+
+### Versions
+[See Release](https://github.com/phpfunk/alfred-sonos-sound-controls/releases)
