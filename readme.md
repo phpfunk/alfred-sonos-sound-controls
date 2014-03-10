@@ -1,10 +1,10 @@
 ## Sonos Sound Controls
 
-The desktop app for OS X is great it almost works with all the media keys, almost. You cannot control you volume. With a speaker my office I find it be a time suck to have to tab thru the apps, find Sonos and then manually drag the sound slider. So instead enter Alfred.
+The desktop app for OS X is great it almost works with all the media keys, almost. You cannot control you volume. With a speaker my office I find it be a time suck to have to tab thru the apps, find Sonos and then manually drag the sound slider. So instead enter [Alfred]((http://alfredapp.com/).
 
 I was able to map hotkeys (Command+0, Command+- and Command+=) for mute, volume down and volume up. While not perfect it does the job.
 
-You will need Alfred 2 and a powerpack license in order to use this. The applescript is below if you don't have Alfred and feel like using it anyway.
+You will need [Alfred 2 and a powerpack license](http://www.alfredapp.com/powerpack/) in order to use this. The applescript is below if you don't have Alfred and feel like using it anyway.
 
 Also when you first use this script your system will prompt you to allow Alfred to use accessiblity controls. The reason for this is because the only want to accomplish this is to fake button clicks and volume sliders using accessbility controls. Sonos has no Applescript library for their desktop application at the moment.
 
