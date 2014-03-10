@@ -10,6 +10,9 @@ Also when you first use this script your system will prompt you to allow Alfred 
 
 To download just grab the last release [here](https://github.com/phpfunk/alfred-sonos-sound-controls/archive/master.zip).
 
+### Versions
+[See Releases](https://github.com/phpfunk/alfred-sonos-sound-controls/releases)
+
 ### Mute
 ```applescript
 tell application "System Events"
@@ -36,6 +39,3 @@ end tell
     end tell
 end tell
 ```
-
-### Versions
-[See Release](https://github.com/phpfunk/alfred-sonos-sound-controls/releases)
